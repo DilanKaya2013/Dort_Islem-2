@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\bin\Debug\dört-islem-2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\bin\Debug\dört-islem-2.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\bin\Debug\dört-islem-2.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\obj\Debug\dört-islem-2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\obj\Debug\dört-islem-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\obj\Debug\dört_islem_2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\obj\Debug\dört_islem_2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\obj\Debug\dört-islem-2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\obj\Debug\dört-islem-2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\obj\Debug\dört-islem-2.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\dört-islem-2\dört-islem-2\obj\Debug\dört-islem-2.pdb
